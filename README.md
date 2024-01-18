@@ -50,7 +50,6 @@ Open your browser and visit http://localhost:3000 to view the app.
 Contributing
 Feel free to contribute to the project. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-License
-This project is licensed under the MIT License.
+
 
 Happy Blogging!
